@@ -4,7 +4,7 @@
 // GETTING STARTED
 // 1. Create a database called jaskis
 
-use jaskis
+use  jaskis
 
 // 2. Create a collection called bounties
 db.createCollections('bounties')
